@@ -53,7 +53,7 @@ more accurate and robust systems.
 
 - K-Means
 Table-1 K-Means Error
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Gender</th>
@@ -72,8 +72,7 @@ Table-1 K-Means Error
 Table-2 For Precision,Recall,F1 Score,Support
 - SVM
 Table-1 SVM Error
-<style type="text/css">
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Gender</th>
@@ -92,8 +91,7 @@ Table-2 For Precision,Recall,F1 Score,Support
 
 - EigenFaces
 Table-1 Eigenfaces Error
-<style type="text/css">
-</style>
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Gender</th>

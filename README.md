@@ -39,7 +39,9 @@ more accurate and robust systems.
 
 ## Output
 - Gabor Algorithm Output
-![My image](https://github.com/Charvik2020/ML_gender-identification/blob/master/Gabor%20algorithm/gabor.png)
+<br>
+ <img src="https://github.com/Charvik2020/ML_gender-identification/blob/master/Gabor%20algorithm/gabor.png" width="350"/>
+<br>
 
 - Face Detection Real Time 
 <br>
@@ -50,11 +52,11 @@ more accurate and robust systems.
 <br>
 
 - K-Means
-Table-1 K-means Error
-| Gender        |     Error     |
-| ------------- | ------------- |
-| Male          | 0.79          |
-| Female        | 0.16          |
+Table-1 K-means Error \\ 
+| Gender        |     Error     | \\
+| ------------- | ------------- | \\
+| Male          | 0.79          | \\
+| Female        | 0.16          | \\
 
 Table-2 For Precision,Recall,F1 Score,Support
 | Class Label   |    Precision  | Recall      |  F1-Score  |

@@ -95,6 +95,28 @@ Table-1 K-Means Error
   </tr>
 </table>
 Table-2 For Precision,Recall,F1 Score,Support
+
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Class Label</th>
+    <th class="tg-yw4l">Male</th>
+    <th class="tg-yw4l">Female</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Male</td>
+    <td class="tg-yw4l">40</td>
+    <td class="tg-yw4l">160</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Female</td>
+    <td class="tg-yw4l">15</td>
+    <td class="tg-yw4l">78</td>
+  </tr>
+</table>
+Table-3 Confusion Matrix
+
+
 - SVM
 <table class="tg">
   <tr>
@@ -139,6 +161,25 @@ Table-1 SVM Error
 </table>
 
 Table-2 For Precision,Recall,F1 Score,Support
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Class Label</th>
+    <th class="tg-yw4l">Male</th>
+    <th class="tg-yw4l">Female</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Male</td>
+    <td class="tg-yw4l">176</td>
+    <td class="tg-yw4l">24</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Female</td>
+    <td class="tg-yw4l">23</td>
+    <td class="tg-yw4l">70</td>
+  </tr>
+</table>
+Table-3 Confusion Matrix
 
 - EigenFaces
 
@@ -185,6 +226,26 @@ Table-1 Eigenfaces Error
   </tr>
 </table>
 Table-2 For Precision,Recall,F1 Score,Support
+
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Class Label</th>
+    <th class="tg-yw4l">Male</th>
+    <th class="tg-yw4l">Female</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Male</td>
+    <td class="tg-yw4l">66</td>
+    <td class="tg-yw4l">134</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Female</td>
+    <td class="tg-yw4l">60</td>
+    <td class="tg-yw4l">33</td>
+  </tr>
+</table>
+Table-3 Confusion Matrix
 
 ## Conclusion
 For the Proper Gender Identification we need to Detect

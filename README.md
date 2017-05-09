@@ -52,64 +52,30 @@ more accurate and robust systems.
 <br>
 
 - K-Means
-Table-1 K-means Error \\ 
-| Gender        |     Error     | \\
-| ------------- | -------------: | \\
-| Male          | 0.79          | \\
-| Female        | 0.16          | \\
-
-Table-2 For Precision,Recall,F1 Score,Support
-| Class Label   |    Precision  | Recall      |  F1-Score  |
-| ------------- | :------------- :| :------------: | ----------: |
-| Male          | 0.63          |0.68         |0.77        |
-| Female        | 0.61          |0.66         |0.75        |
-| AVG/Total     | 0.64          |0.67         |0.76        |
-
-Table-3 Confusion Matrix
-| Class Label   |    Male       | Female      | 
-| ------------- | :-------------: | ------------:| 
-| Male          | 40            |160          |
-| Female        | 15            |78           |
 
 - SVM
-Table-1 SVM Error
-| Gender        |     Error     |
-| ------------- | -------------: |
-| Male          | 0.47          |
-| Female        | 0.53          |
-
-Table-2 For Precision,Recall,F1 Score,Support
-| Class Label   |    Precision  | Recall      |  F1-Score  |
-| ------------- | :-------------: | :------------: | ----------: |
-| Male          | 0.88          |0.88         |0.88        |
-| Female        | 0.74          |0.75         |0.743       |
-| AVG/Total     | 0.81          |0.81         |0.81        |
-
-Table-3 Confusion Matrix
-| Class Label   |    Male       | Female      | 
-| ------------- | :-------------: | ------------: | 
-| Male          | 176           |24           |
-| Female        | 23            |70           |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Gender</th>
+    <th class="tg-yw4l">Error</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Male</td>
+    <td class="tg-yw4l">0.47</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Female</td>
+    <td class="tg-yw4l">0.53</td>
+  </tr>
+</table>
 
 - EigenFaces
-Table-1 EigenFaces Error
-| Gender        |     Error     |
-| ------------- | -------------: |
-| Male          | 0.64          |
-| Female        | 0.66          |
-
-Table-2 For Precision,Recall,F1 Score,Support
-| Class Label   |    Precision  | Recall      |  F1-Score  |
-| ------------- | :-------------: | :------------: | ----------: |
-| Male          | 0.73          |0.20         |0.313       |
-| Female        | 0.33          |0.84         |0.47        |
-| AVG/Total     | 0.53          |0.52         |0.39        |
-
-Table-3 Confusion Matrix
-| Class Label   |    Male       | Female      | 
-| ------------- | :-------------: | ------------: | 
-| Male          | 66            |134          |
-| Female        | 60            |33           |
 
 ## Conclusion
 For the Proper Gender Identification we need to Detect

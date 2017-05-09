@@ -38,18 +38,6 @@ more accurate and robust systems.
 - Dimension 48 x 48 pixel
 
 ## Output
-- Gabor Algorithm Output
-<br>
- <img src="https://github.com/Charvik2020/ML_gender-identification/blob/master/Gabor%20algorithm/gabor.png" width="350"/>
-<br>
-
-- Face Detection Real Time 
-<br>
- <img src="https://github.com/Charvik2020/ML_gender-identification/blob/master/Report/3.png" width="350"/>
-<br>
-<br>
- <img src="https://github.com/Charvik2020/ML_gender-identification/blob/master/Report/2.png" width="350"/>
-<br>
 
 - K-Means
 

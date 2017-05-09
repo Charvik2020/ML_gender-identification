@@ -54,60 +54,60 @@ more accurate and robust systems.
 - K-Means
 Table-1 K-means Error \\ 
 | Gender        |     Error     | \\
-| ------------- | ------------- | \\
+| ------------- | -------------: | \\
 | Male          | 0.79          | \\
 | Female        | 0.16          | \\
 
 Table-2 For Precision,Recall,F1 Score,Support
 | Class Label   |    Precision  | Recall      |  F1-Score  |
-| ------------- | ------------- | ------------| ---------- |
+| ------------- | :------------- :| :------------: | ----------: |
 | Male          | 0.63          |0.68         |0.77        |
 | Female        | 0.61          |0.66         |0.75        |
 | AVG/Total     | 0.64          |0.67         |0.76        |
 
 Table-3 Confusion Matrix
 | Class Label   |    Male       | Female      | 
-| ------------- | ------------- | ------------| 
+| ------------- | :-------------: | ------------:| 
 | Male          | 40            |160          |
 | Female        | 15            |78           |
 
 - SVM
 Table-1 SVM Error
 | Gender        |     Error     |
-| ------------- | ------------- |
+| ------------- | -------------: |
 | Male          | 0.47          |
 | Female        | 0.53          |
 
 Table-2 For Precision,Recall,F1 Score,Support
 | Class Label   |    Precision  | Recall      |  F1-Score  |
-| ------------- | ------------- | ------------| ---------- |
+| ------------- | :-------------: | :------------: | ----------: |
 | Male          | 0.88          |0.88         |0.88        |
 | Female        | 0.74          |0.75         |0.743       |
 | AVG/Total     | 0.81          |0.81         |0.81        |
 
 Table-3 Confusion Matrix
 | Class Label   |    Male       | Female      | 
-| ------------- | ------------- | ------------| 
+| ------------- | :-------------: | ------------: | 
 | Male          | 176           |24           |
 | Female        | 23            |70           |
 
 - EigenFaces
 Table-1 EigenFaces Error
 | Gender        |     Error     |
-| ------------- | ------------- |
+| ------------- | -------------: |
 | Male          | 0.64          |
 | Female        | 0.66          |
 
 Table-2 For Precision,Recall,F1 Score,Support
 | Class Label   |    Precision  | Recall      |  F1-Score  |
-| ------------- | ------------- | ------------| ---------- |
+| ------------- | :-------------: | :------------: | ----------: |
 | Male          | 0.73          |0.20         |0.313       |
 | Female        | 0.33          |0.84         |0.47        |
 | AVG/Total     | 0.53          |0.52         |0.39        |
 
 Table-3 Confusion Matrix
 | Class Label   |    Male       | Female      | 
-| ------------- | ------------- | ------------| 
+| ------------- | :-------------: | ------------: | 
 | Male          | 66            |134          |
 | Female        | 60            |33           |
 

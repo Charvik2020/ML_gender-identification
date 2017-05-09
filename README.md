@@ -52,7 +52,6 @@ more accurate and robust systems.
 <br>
 
 - K-Means
-Table-1 K-Means Error
 
 <table class="tg">
   <tr>
@@ -68,11 +67,35 @@ Table-1 K-Means Error
     <td class="tg-yw4l">0.16</td>
   </tr>
 </table>
-
+Table-1 K-Means Error
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Class Label</th>
+    <th class="tg-yw4l">Presision</th>
+    <th class="tg-yw4l">Recall</th>
+    <th class="tg-yw4l">F1-Score</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Male</td>
+    <td class="tg-yw4l">0.63</td>
+    <td class="tg-yw4l">0.68</td>
+    <td class="tg-yw4l">0.77</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Female</td>
+    <td class="tg-yw4l">0.61</td>
+    <td class="tg-yw4l">0.66</td>
+    <td class="tg-yw4l">0.75</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Avg/Total</td>
+    <td class="tg-yw4l">0.64</td>
+    <td class="tg-yw4l">0.67</td>
+    <td class="tg-yw4l">0.76</td>
+  </tr>
+</table>
 Table-2 For Precision,Recall,F1 Score,Support
 - SVM
-Table-1 SVM Error
-
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Gender</th>
@@ -87,10 +110,37 @@ Table-1 SVM Error
     <td class="tg-yw4l">0.53</td>
   </tr>
 </table>
+Table-1 SVM Error
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Class Label</th>
+    <th class="tg-yw4l">Presision</th>
+    <th class="tg-yw4l">Recall</th>
+    <th class="tg-yw4l">F1-Score</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Male</td>
+    <td class="tg-yw4l">0.88</td>
+    <td class="tg-yw4l">0.88</td>
+    <td class="tg-yw4l">0.88</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Female</td>
+    <td class="tg-yw4l">0.74</td>
+    <td class="tg-yw4l">0.75</td>
+    <td class="tg-yw4l">0.743</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Avg/Total</td>
+    <td class="tg-yw4l">0.81</td>
+    <td class="tg-yw4l">0.81</td>
+    <td class="tg-yw4l">0.81</td>
+  </tr>
+</table>
+
 Table-2 For Precision,Recall,F1 Score,Support
 
 - EigenFaces
-Table-1 Eigenfaces Error
 
 <table class="tg">
   <tr>
@@ -106,6 +156,35 @@ Table-1 Eigenfaces Error
     <td class="tg-yw4l">0.66</td>
   </tr>
 </table>
+Table-1 Eigenfaces Error
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Class Label</th>
+    <th class="tg-yw4l">Presision</th>
+    <th class="tg-yw4l">Recall</th>
+    <th class="tg-yw4l">F1-Score</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Male</td>
+    <td class="tg-yw4l">0.73</td>
+    <td class="tg-yw4l">0.20</td>
+    <td class="tg-yw4l">0.313</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Female</td>
+    <td class="tg-yw4l">0.33</td>
+    <td class="tg-yw4l">0.84</td>
+    <td class="tg-yw4l">0.47</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Avg/Total</td>
+    <td class="tg-yw4l">0.53</td>
+    <td class="tg-yw4l">0.52</td>
+    <td class="tg-yw4l">0.39</td>
+  </tr>
+</table>
+Table-2 For Precision,Recall,F1 Score,Support
 
 ## Conclusion
 For the Proper Gender Identification we need to Detect

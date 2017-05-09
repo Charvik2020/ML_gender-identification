@@ -52,13 +52,27 @@ more accurate and robust systems.
 <br>
 
 - K-Means
+Table-1 K-Means Error
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Gender</th>
+    <th class="tg-yw4l">Error</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Male</td>
+    <td class="tg-yw4l">0.79</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Female</td>
+    <td class="tg-yw4l">0.16</td>
+  </tr>
+</table>
 
+Table-2 For Precision,Recall,F1 Score,Support
 - SVM
+Table-1 SVM Error
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-yw4l{vertical-align:top}
 </style>
 <table class="tg">
   <tr>
@@ -74,8 +88,26 @@ more accurate and robust systems.
     <td class="tg-yw4l">0.53</td>
   </tr>
 </table>
+Table-2 For Precision,Recall,F1 Score,Support
 
 - EigenFaces
+Table-1 Eigenfaces Error
+<style type="text/css">
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Gender</th>
+    <th class="tg-yw4l">Error</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Male</td>
+    <td class="tg-yw4l">0.64</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Female</td>
+    <td class="tg-yw4l">0.66</td>
+  </tr>
+</table>
 
 ## Conclusion
 For the Proper Gender Identification we need to Detect

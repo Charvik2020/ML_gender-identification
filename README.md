@@ -26,7 +26,7 @@ more accurate and robust systems.
 
 ## Methodology
 <br>
- <img src="https://raw.githubusercontent.com/Charvik2020/ML_gender-identification/blob/master/Report/Methodology.JPG" width="350"/>
+ <img src="https://github.com/Charvik2020/ML_gender-identification/blob/master/Report/Methodology.JPG" width="350"/>
 <br>
 
 ## Requirements

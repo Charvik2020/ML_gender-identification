@@ -10,7 +10,7 @@ Gender Identification
 ## Mentor's And Teaching Assistant
 - Dr. Mehul raval
 - Shashwat Sanghvi(TA) 
-- Sharvil Shah(TA)
+
 
 
 ## Idea

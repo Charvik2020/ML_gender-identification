@@ -46,11 +46,11 @@ more accurate and robust systems.
   </tr>
   <tr>
     <td class="tg-yw4l">Male</td>
-    <td class="tg-yw4l">0.79</td>
+    <td class="tg-yw4l">0.17</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Female</td>
-    <td class="tg-yw4l">0.16</td>
+    <td class="tg-yw4l">0.82</td>
   </tr>
 </table>
 Table-1 K-Means Error
@@ -63,21 +63,21 @@ Table-1 K-Means Error
   </tr>
   <tr>
     <td class="tg-yw4l">Male</td>
-    <td class="tg-yw4l">0.63</td>
     <td class="tg-yw4l">0.68</td>
-    <td class="tg-yw4l">0.77</td>
+    <td class="tg-yw4l">0.82</td>
+    <td class="tg-yw4l">0.74</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Female</td>
-    <td class="tg-yw4l">0.61</td>
-    <td class="tg-yw4l">0.66</td>
-    <td class="tg-yw4l">0.75</td>
+    <td class="tg-yw4l">0.31</td>
+    <td class="tg-yw4l">0.17</td>
+    <td class="tg-yw4l">0.22</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Avg/Total</td>
-    <td class="tg-yw4l">0.64</td>
-    <td class="tg-yw4l">0.67</td>
-    <td class="tg-yw4l">0.76</td>
+    <td class="tg-yw4l">0.49</td>
+    <td class="tg-yw4l">0.49</td>
+    <td class="tg-yw4l">0.48</td>
   </tr>
 </table>
 Table-2 For Precision,Recall,F1 Score,Support
@@ -91,13 +91,13 @@ Table-2 For Precision,Recall,F1 Score,Support
   </tr>
   <tr>
     <td class="tg-yw4l">Male</td>
-    <td class="tg-yw4l">40</td>
-    <td class="tg-yw4l">160</td>
+    <td class="tg-yw4l">164</td>
+    <td class="tg-yw4l">36</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Female</td>
-    <td class="tg-yw4l">15</td>
-    <td class="tg-yw4l">78</td>
+    <td class="tg-yw4l">77</td>
+    <td class="tg-yw4l">16</td>
   </tr>
 </table>
 Table-3 Confusion Matrix
@@ -111,11 +111,11 @@ Table-3 Confusion Matrix
   </tr>
   <tr>
     <td class="tg-yw4l">Male</td>
-    <td class="tg-yw4l">0.47</td>
+    <td class="tg-yw4l">0.19</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Female</td>
-    <td class="tg-yw4l">0.53</td>
+    <td class="tg-yw4l">0.48</td>
   </tr>
 </table>
 Table-1 SVM Error
@@ -128,21 +128,21 @@ Table-1 SVM Error
   </tr>
   <tr>
     <td class="tg-yw4l">Male</td>
-    <td class="tg-yw4l">0.88</td>
-    <td class="tg-yw4l">0.88</td>
-    <td class="tg-yw4l">0.88</td>
+    <td class="tg-yw4l">0.78</td>
+    <td class="tg-yw4l">0.81</td>
+    <td class="tg-yw4l">0.79</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Female</td>
-    <td class="tg-yw4l">0.74</td>
-    <td class="tg-yw4l">0.75</td>
-    <td class="tg-yw4l">0.743</td>
+    <td class="tg-yw4l">0.56</td>
+    <td class="tg-yw4l">0.52</td>
+    <td class="tg-yw4l">0.54</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Avg/Total</td>
-    <td class="tg-yw4l">0.81</td>
-    <td class="tg-yw4l">0.81</td>
-    <td class="tg-yw4l">0.81</td>
+    <td class="tg-yw4l">0.67</td>
+    <td class="tg-yw4l">0.66</td>
+    <td class="tg-yw4l">0.66</td>
   </tr>
 </table>
 
@@ -156,13 +156,13 @@ Table-2 For Precision,Recall,F1 Score,Support
   </tr>
   <tr>
     <td class="tg-yw4l">Male</td>
-    <td class="tg-yw4l">176</td>
-    <td class="tg-yw4l">24</td>
+    <td class="tg-yw4l">160</td>
+    <td class="tg-yw4l">38</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Female</td>
-    <td class="tg-yw4l">23</td>
-    <td class="tg-yw4l">70</td>
+    <td class="tg-yw4l">45</td>
+    <td class="tg-yw4l">49</td>
   </tr>
 </table>
 Table-3 Confusion Matrix
@@ -176,11 +176,11 @@ Table-3 Confusion Matrix
   </tr>
   <tr>
     <td class="tg-yw4l">Male</td>
-    <td class="tg-yw4l">0.64</td>
+    <td class="tg-yw4l">0.28</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Female</td>
-    <td class="tg-yw4l">0.66</td>
+    <td class="tg-yw4l">0.76</td>
   </tr>
 </table>
 Table-1 Eigenfaces Error
@@ -194,21 +194,21 @@ Table-1 Eigenfaces Error
   </tr>
   <tr>
     <td class="tg-yw4l">Male</td>
-    <td class="tg-yw4l">0.73</td>
-    <td class="tg-yw4l">0.20</td>
-    <td class="tg-yw4l">0.313</td>
+    <td class="tg-yw4l">0.67</td>
+    <td class="tg-yw4l">0.72</td>
+    <td class="tg-yw4l">0.69</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Female</td>
-    <td class="tg-yw4l">0.33</td>
-    <td class="tg-yw4l">0.84</td>
-    <td class="tg-yw4l">0.47</td>
+    <td class="tg-yw4l">0.29</td>
+    <td class="tg-yw4l">0.25</td>
+    <td class="tg-yw4l">0.268</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Avg/Total</td>
-    <td class="tg-yw4l">0.53</td>
-    <td class="tg-yw4l">0.52</td>
-    <td class="tg-yw4l">0.39</td>
+    <td class="tg-yw4l">0.48</td>
+    <td class="tg-yw4l">0.485</td>
+    <td class="tg-yw4l">0.48</td>
   </tr>
 </table>
 Table-2 For Precision,Recall,F1 Score,Support
@@ -222,13 +222,13 @@ Table-2 For Precision,Recall,F1 Score,Support
   </tr>
   <tr>
     <td class="tg-yw4l">Male</td>
-    <td class="tg-yw4l">66</td>
-    <td class="tg-yw4l">134</td>
+    <td class="tg-yw4l">144</td>
+    <td class="tg-yw4l">56</td>
   </tr>
   <tr>
     <td class="tg-yw4l">Female</td>
-    <td class="tg-yw4l">60</td>
-    <td class="tg-yw4l">33</td>
+    <td class="tg-yw4l">70</td>
+    <td class="tg-yw4l">23</td>
   </tr>
 </table>
 Table-3 Confusion Matrix

@@ -25,7 +25,7 @@ to time in order to achieve higher accuracy levels and build
 more accurate and robust systems. 
 
 ## Methodology
-![Image](https://github.com/Charvik2020/ML_gender-identification/blob/master/Report/Methodology.JPG)
+![Image](https://github.com/Charvik2020/ML_gender-identification/raw/master/Report/Methodology.JPG)
     
 ## Requirements
 - Python 2.7+
